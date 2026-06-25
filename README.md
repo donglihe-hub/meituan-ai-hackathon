@@ -22,6 +22,8 @@
 
 - https://pcn7x0h2nqqh.feishu.cn/docx/ZXnKddUIRoGvFIxyH2ic7D7rnzV
 
+产品PRD包括项目研究背景、核心功能定义、产品全链路转化等内容。
+
 ### 运营端
 
 - https://huanjia.eu.cc
